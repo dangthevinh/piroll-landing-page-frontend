@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Project-3"
+		},
+		{
+			"path": "../Piroll"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Piroll-Project"
+	}
+}
